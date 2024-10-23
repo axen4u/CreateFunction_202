@@ -11,3 +11,9 @@ def Konversi_Suhu(Temperature, value):
 celsius_temperatur = 30
 Temperatur_suhu, target_value = Konversi_Suhu(celsius_temperatur, 'F')
 print(f"{celsius_temperatur}°C dikonversi ke Fahrenheit adalah {Temperatur_suhu}°{target_value}")
+
+
+# Konversi dari Fahrenheit ke Celsius
+fahrenheit_temperatur = 86
+Temperatur_suhu, target_value = Konversi_Suhu(fahrenheit_temperatur, 'C')
+print(f"{fahrenheit_temperatur}°F dikonversi ke Celsius adalah {Temperatur_suhu}°{target_value}")

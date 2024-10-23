@@ -1,0 +1,1 @@
+import math #librsry untuk operasi matematika

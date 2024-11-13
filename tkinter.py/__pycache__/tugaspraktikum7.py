@@ -1,5 +1,5 @@
 import tkinter as tk
-from tkinter import messagebox
+
 
 # Fungsi untuk menangani prediksi
 def hasil_prediksi():

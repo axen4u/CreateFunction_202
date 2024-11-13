@@ -51,6 +51,9 @@ for i in range(1, 11):
     label.pack(side=tk.LEFT, padx=5)  # Menempatkan label di kiri
     
     entry = tk.Entry(frame)
+    entry.pack(side=tk.LEFT, padx=5)# Menempatkan label di kiri
+    
+    entry = tk.Entry(frame)
     entry.pack(side=tk.LEFT, padx=5)  # Menempatkan entry di sebelah label
     entries.append(entry)
 
